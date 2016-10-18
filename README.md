@@ -32,7 +32,6 @@ Documenation and Instructions
 <p>You will find the video here:</p>
 <p class="MsoNormal"><span><a href="https://vimeo.com/187794612">https://vimeo.com/187794612</a></span></p>
 </div>
-<p>&nbsp;</p>
 
 Copyright and License
 ---
